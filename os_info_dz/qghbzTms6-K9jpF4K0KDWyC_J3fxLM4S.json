@@ -1,0 +1,8 @@
+{
+    "1_computer_name": "DESKTOP-HI4C7DU#",
+    "2_total_memory_gb": 31.93,
+    "3_free_memory_gb": 19.04,
+    "4_process_count": 274,
+    "5_thread_count": 4479,
+    "6_used_disk_gb": 224.58
+}
